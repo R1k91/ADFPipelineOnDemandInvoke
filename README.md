@@ -1,4 +1,5 @@
-# ADFPipelineOnDemandInvoke
+# ADF Pipeline OnDemand Invoke
+Invoke an Azure Data Factory pipeline through a Azure Automation Runbook Webhook to make it runnable on-demand from any application able to perform POST calls.
 
 ## Prerequisites 
 - PowerShell v7.x
